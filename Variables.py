@@ -64,5 +64,5 @@ name = 'Imran'
 print(type(id))  # Output: <class 'int'>
 print(type(name))  # Output: <class 'str'>
 
-print(Done)
+print(Done) # type: ignore
 
