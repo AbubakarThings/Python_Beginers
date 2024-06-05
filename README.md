@@ -1,10 +1,13 @@
 # Salayni-Python-9_12
 
 Type Casting✔
+
 The type casting is a method of converting the value of one data type to another data type. It is also known as type conversion. Python is an object-orientated language, and it uses classes to define data types. Hence, the type casting can be achieved by using constructor function of given data type class.
 
 TYPE OF TYPECASTING
+
 Explicit Type Conversion-The programmer must perform this task manually.
+
 Implicit Type Conversion-By the Python program automatically.
 
 1. Implicit Type casting
